@@ -16,6 +16,7 @@ jobs:
           wget -o README.md https://raw.githubusercontent.com/HackettYu/mkdocs-material/master/docs/index.md 
       - name: Commit files
         run: |
+          git add README.md
           git config --local user.email "hy.lobyyo@gmail.com"
           git config --local user.name "Readme(bot)"
           git commit -m "Github action: updated on $(date +%Y-%m-%d)" -a
