@@ -6,14 +6,14 @@ on:
   schedule:
     - cron: "* 1/8 * * *"
 jobs:
-  weekly:
+  readme:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
       - name: Get README.md from my blog
         run: |
-          wget https://raw.githubusercontent.com/HackettYu/mkdocs-material/master/docs/index.md -o README.md
+          wget -o README.md https://raw.githubusercontent.com/HackettYu/mkdocs-material/master/docs/index.md 
       - name: Commit files
         run: |
           git config --local user.email "hy.lobyyo@gmail.com"
