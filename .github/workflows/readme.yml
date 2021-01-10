@@ -1,0 +1,25 @@
+name: "Github Action: generate readme"
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "* 1/8 * * *"
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Get README.md from my blog
+        run: |
+          wget https://raw.githubusercontent.com/HackettYu/mkdocs-material/master/docs/index.md -o README.md
+      - name: Commit files
+        run: |
+          git config --local user.email "hy.lobyyo@gmail.com"
+          git config --local user.name "Readme(bot)"
+          git commit -m "Github action: updated on $(date +%Y-%m-%d)" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
