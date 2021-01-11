@@ -19,7 +19,7 @@ jobs:
         run: |
           git config --local user.email "hy.lobyyo@gmail.com"
           git config --local user.name "Readme(bot)"
-          git commit -m "Github action: updated on $(date +%Y-%m-%d)" -a README.md
+          git commit -m "Github action: updated on $(date +%Y-%m-%d)" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
