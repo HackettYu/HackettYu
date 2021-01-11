@@ -133,5 +133,5 @@
     + IF THEN
     ```
 
-> update on: $(date +%Y-%m-%d)
+> update on: Mon Jan 11 10:46:19 UTC 2021 
 
