@@ -17,11 +17,9 @@ jobs:
           echo -e '\n\n> update on: $(date +%Y-%m-%d)\n' >> README.md
       - name: Commit files
         run: |
-          git add README.md
-
           git config --local user.email "hy.lobyyo@gmail.com"
           git config --local user.name "Readme(bot)"
-          git commit -m "Github action: updated on $(date +%Y-%m-%d)" -a
+          git commit -m "Github action: updated on $(date +%Y-%m-%d)" -a README.md
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
