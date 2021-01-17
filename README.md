@@ -9,6 +9,14 @@
 + [2020-06-16]:[add material-mkdocs]
 ```
 
+### Search
+
+[https://github.com/HackettYu/mkdocs-material/search?q=test](https://github.com/HackettYu/mkdocs-material/search?q=test)
+
+### Disqus
+
+[https://github.com/HackettYu/mkdocs-material/issues/1](https://github.com/HackettYu/mkdocs-material/issues/1)
+
 ### Drinking
 
 === "Wine List"
@@ -73,7 +81,7 @@
 
 ### Book
 
-===! "Book List"
+=== "Book List"
     **2021**
 
     - [x] 香港第一课                   2020-02-02
@@ -142,9 +150,19 @@
     + IF THEN
     ```
 
-## TODO
+### Newsletter
+
+> https://hackettyu.substack.com
+
+### RSS
+
+> ~~https://hackettyu.com/feed_rss_created.xml~~
+
+> ~~https://hackettyu.com/feed_rss_updated.xml~~
+
+### TODO
 
 - [ ] Add support rss
 
-> update on: Sat Jan 16 18:24:04 UTC 2021 
+> update on: Sun Jan 17 02:46:37 UTC 2021 
 
