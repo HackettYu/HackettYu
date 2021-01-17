@@ -17,6 +17,10 @@
 
 [https://github.com/HackettYu/mkdocs-material/issues/1](https://github.com/HackettYu/mkdocs-material/issues/1)
 
+### Find
+
+[https://github.com/HackettYu/mkdocs-material/find/master](https://github.com/HackettYu/mkdocs-material/find/master)
+
 ### Drinking
 
 === "Wine List"
@@ -164,5 +168,5 @@
 
 - [ ] Add support rss
 
-> update on: Sun Jan 17 02:46:37 UTC 2021 
+> update on: Sun Jan 17 09:48:02 UTC 2021 
 
