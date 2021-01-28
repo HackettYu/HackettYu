@@ -15,7 +15,7 @@
 
 ### Disqus
 
-[https://github.com/HackettYu/mkdocs-material/issues/1](https://github.com/HackettYu/mkdocs-material/issues/1)
+[https://github.com/HackettYu/mkdocs-material/discussions](https://github.com/HackettYu/mkdocs-material/discussions)
 
 ### Find
 
@@ -168,5 +168,5 @@
 
 - [ ] Add support rss
 
-> update on: Thu Jan 28 02:01:29 UTC 2021 
+> update on: Thu Jan 28 09:33:28 UTC 2021 
 
