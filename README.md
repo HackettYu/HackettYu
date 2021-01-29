@@ -113,6 +113,7 @@
     - [ ] BPF 之巅
     - [ ] 咖啡冲煮科学
     - [ ] 咖啡豆科学
+    - [ ] 自由软件，自由社会
     - [ ] Software Engineering at Google
     - [ ] The Effective Engineer
 
@@ -168,5 +169,5 @@
 
 - [ ] Add support rss
 
-> update on: Fri Jan 29 09:24:07 UTC 2021 
+> update on: Fri Jan 29 09:49:34 UTC 2021 
 
