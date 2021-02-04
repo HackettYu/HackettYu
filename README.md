@@ -149,13 +149,13 @@
 
 ### RSS
 
-> ~~https://hackettyu.com/feed_rss_created.xml~~
+> https://hackettyu.com/feed_rss_created.xml
 
-> ~~https://hackettyu.com/feed_rss_updated.xml~~
+> https://hackettyu.com/feed_rss_updated.xml
 
 ### TODO
 
 - [ ] Add support rss
 
-> update on: Thu Feb 4 02:04:14 UTC 2021 
+> update on: Thu Feb 4 09:17:42 UTC 2021 
 
