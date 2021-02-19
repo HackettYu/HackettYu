@@ -154,5 +154,5 @@
 > https://hackettyu.com/feed_rss_updated.xml
 
 
-> update on: Fri Feb 19 02:05:43 UTC 2021 
+> update on: Fri Feb 19 09:18:23 UTC 2021 
 
