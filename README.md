@@ -142,7 +142,6 @@ Language: ABAP\Python\JavasScript
     + 共同的底线
     + 日本色气
     + RUST 权威指南
-    + *数据库系统内幕
     + 把自己作为方法
     + 重做
     + 每周工作4小时
@@ -177,5 +176,5 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Fri Apr 30 02:10:52 UTC 2021 
+> update on: Fri Apr 30 09:20:56 UTC 2021 
 
