@@ -134,6 +134,7 @@ Language: ABAP\Python\JavasScript
     - [ ] Software Engineering at Google
     - [ ] The Effective Engineer
     - [ ] 躺平
+    - [ ] 气候经济与人类未来
  
 === "Just List"
 
@@ -184,5 +185,5 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Sun Jun 13 02:06:01 UTC 2021 
+> update on: Sun Jun 13 09:17:17 UTC 2021 
 
