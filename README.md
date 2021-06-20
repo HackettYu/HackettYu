@@ -185,5 +185,5 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Sun Jun 20 17:52:17 UTC 2021 
+> update on: Sun Jun 20 18:01:39 UTC 2021 
 
