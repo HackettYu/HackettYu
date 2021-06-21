@@ -135,6 +135,7 @@ Language: ABAP\Python\JavasScript
     - [ ] The Effective Engineer
     - [ ] 躺平
     - [ ] 气候经济与人类未来
+    - [ ] 世界大笨蛋反叛手册
  
 === "Just List"
 
@@ -185,5 +186,5 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Mon Jun 21 10:09:51 UTC 2021 
+> update on: Mon Jun 21 17:29:58 UTC 2021 
 
