@@ -169,6 +169,8 @@ Language: ABAP\Python\JavasScript
     + The New Hacker's Dictionary
     + Remote
     + IF THEN
+    + Fonts & Encodings
+    + What IF
     ```
 
 ### Newsletter
@@ -186,5 +188,5 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Fri Jun 25 02:03:44 UTC 2021 
+> update on: Fri Jun 25 09:18:36 UTC 2021 
 
