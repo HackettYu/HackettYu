@@ -159,6 +159,7 @@ Language: ABAP\Python\JavasScript
     + UNIX 传奇历史与回忆
     + 这才是我想要的工作
     + 若为自由故
+    + 那些古怪又让人忧心的问题
     ```
 
 === "English"
@@ -188,5 +189,5 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Sun Jul 4 10:24:16 UTC 2021 
+> update on: Sun Jul 4 17:20:07 UTC 2021 
 
