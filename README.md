@@ -111,18 +111,23 @@ Language: ABAP\Python\JavasScript
     - [x] 原子习惯                     2020-04-16
     - [X] 子弹笔记                     2020-06-18
     - [X] 大教堂与集市                 2020-08-02
-    - [X] 永久档案                     
+    - [X] 黑客与画家 2020-10-31
+    - [X] 手工咖啡 2020-11-31
+
+    **2021**
+                    
     - [X] *SRE: Google 运维解密         
     - [X] Pro-Git
     - [X] 软件设计的哲学
-    - [X] 黑客与画家 2020-10-31
-    - [X] 手工咖啡 2020-11-31
-    - [X] 混乱的猴子 2021-04-01   
+    - [X] 混乱的猴子
+    - [ ] 解密 Insgram
+    - [ ] 你有你的划，世界另有计划
 
     **TODO**
 
     - [ ] SICP Python 实现
     - [ ] *数据库系统内幕
+    - [ ] 永久档案     
     - [ ] Cpython internal
     - [ ] 了不起的我
     - [ ] 纸知识
@@ -189,5 +194,5 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Sun Jul 11 10:24:25 UTC 2021 
+> update on: Sun Jul 11 17:20:27 UTC 2021 
 
