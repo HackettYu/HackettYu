@@ -196,5 +196,4 @@ This is [created](https://hackettyu.com/feed_rss_created.xml)
 This is [updated](https://hackettyu.com/feed_rss_updated.xml)
 
 
-> update on: Sun Aug 1 06:25:47 UTC 2021 
-
+>profile counter: https://komarev.com/ghpvc/?username=hackettyu&color=grey
