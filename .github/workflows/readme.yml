@@ -16,9 +16,10 @@ jobs:
         run: |
           wget -O 'README.md' 'https://raw.githubusercontent.com/HackettYu/mkdocs-material/main/docs/index.md'
            echo -e '\n\n> update on:' $(date) '\n' >> README.md
+           echo -e '\n\n>profile counter: https://komarev.com/ghpvc/?username=hackettyu&color=grey' >> README.md
       - name: Commit files
         run: |
-          git config --local user.email "hy.lobyyo@gmail.com"
+          git config --local user.email "hy.lobyy@gmail.com"
           git config --local user.name "Readme(bot)"
           git commit -m "Github action: updated on $(date +%Y-%m-%d)" -a
       - name: Push changes
