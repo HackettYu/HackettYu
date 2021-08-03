@@ -1,113 +1,203 @@
+## :heart: hackettyu :heart:
 
-<!DOCTYPE html>
+> description: hackettyu.repeat( me.eat().sleep().code() )
 
-<html lang="en">
+## ABOUT ME
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spotify user albums conver art</title>
-    <style type="text/css">
-        .masonry {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
-            grid-template-rows: masonry;
-            grid-gap: 1rem;
-        }
+**Technology stack**
 
-        body {
-            padding: 2rem 0;
-        }
+> Talk is cheap, show me the code.
 
-        .masonry {
-            padding: 0;
-        }
+Language: ABAP\Python\JavasScript
 
-        .masonry figure {
-            margin: 0;
-        }
+> What I cannot create, I do not understand.
 
-        img {
-            border-radius: 1rem;
-            box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
-            max-width: 100%;
-        }
+- [ ] Awesome CLI
+- [ ] Data mock server
 
-        .wrapper {
-            width: 90vw;
-            width: clamp(16rem, 90vw, 80rem);
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
-</head>
+> Know how to solve every problem that has been solved.
 
-<body>
-    <div class="wrapper">
-        <div class="masonry" role="list">
+- Reading
 
-            <figure>
-                <a href="https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra">
-                    <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Coldplay Parachutes" />
-                </a>
-            </figure>
+## CHANGELOG
 
-            <figure>
-                <a href="https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o">
-                    <img src="https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3" alt="Tyler, The Creator Flower Boy" />
-                </a>
-            </figure>
+``` diff
+- [2019-11-13]:[send to kindle]
+- [2019-11-13]:[OGP plugin]
+- [2019-11-13]:[support markdown emoji]
++ [2019-12-05]:[add google analytics]
+- [2020-03-17]:[del some articles]
++ [2020-06-16]:[add material-mkdocs]
++ [2021-07-20]:[add mike]
++ [2021-07-20]:[change Github page to cloudflare page]
+```
 
-            <figure>
-                <a href="https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD">
-                    <img src="https://i.scdn.co/image/ab67616d0000b2730f274e676cbce604f1e316fc" alt="Hormone Boys Hormone boys" />
-                </a>
-            </figure>
+### Search
 
-            <figure>
-                <a href="https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i">
-                    <img src="https://i.scdn.co/image/ab67616d0000b2737a2aff746e4093fecd950130" alt="告五人 我肯定在幾百年前就說過愛你" />
-                </a>
-            </figure>
+[https://github.com/HackettYu/mkdocs-material/search?q=test](https://github.com/HackettYu/mkdocs-material/search?q=test)
 
-            <figure>
-                <a href="https://open.spotify.com/album/0LKvz6dL7bmEeXdfVT3IIG">
-                    <img src="https://i.scdn.co/image/ab67616d0000b273aa38d772d52b43c0b791d8e5" alt="Shi Shi 出沒地帶" />
-                </a>
-            </figure>
+### Disqus
 
-            <figure>
-                <a href="https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft">
-                    <img src="https://i.scdn.co/image/ab67616d0000b27333c05e1d08fec494a30bd240" alt="Aimyon 青春のエキサイトメント" />
-                </a>
-            </figure>
+[https://github.com/HackettYu/mkdocs-material/discussions](https://github.com/HackettYu/mkdocs-material/discussions)
 
-            <figure>
-                <a href="https://open.spotify.com/album/3f7Aco3znOBzGY9DfEk9wi">
-                    <img src="https://i.scdn.co/image/ab67616d0000b273f63150839ebcdf2f8d8b4ce2" alt="John Maus A Collection of Rarities and Previously Unreleased Material" />
-                </a>
-            </figure>
+### Find
 
-            <figure>
-                <a href="https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR">
-                    <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="Kendrick Lamar Black Panther The Album Music From And Inspired By" />
-                </a>
-            </figure>
+[https://github.com/HackettYu/mkdocs-material/find/master](https://github.com/HackettYu/mkdocs-material/find/master)
 
-            <figure>
-                <a href="https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV">
-                    <img src="https://i.scdn.co/image/ab67616d0000b273210933bff4e6e68dc23472b0" alt="HONNE Love Me / Love Me Not" />
-                </a>
-            </figure>
+### Drinking
 
-            <figure>
-                <a href="https://open.spotify.com/album/4S9rZEaOzfDlSiwzNRLucy">
-                    <img src="https://i.scdn.co/image/ab67616d0000b273a7e3afbde798c17cedf716a8" alt="Naiwen Yang SILENCE" />
-                </a>
-            </figure>
+=== "Coffee List"
+    **哥斯达黎加**
 
-        </div>
-    </div>
-</body>
-</html>
+    * [ ] 莫加特
+     
+    **也门**
+
+    * [X] 妮娅
+    * [ ] 乌黛妮
+ 
+    **埃塞尔比亚**
+
+    * [X] 耶加雪菲 歌希 日晒
+    * [X] 耶加雪菲 歌希 水洗
+    * [ ] 耶加雪菲 草莓优格
+    * [X] 瑰夏
+    * [X] 花魁
+     
+    **肯尼亚**
+
+    * [X] 吉缇图 水洗
+     
+    **苏门答腊**
+
+    * [X] 曼特宁 陈年
+     
+    **哥伦比亚**
+
+    * [X] 惠兰
+
+    **洪都拉斯**
+
+    * [X] 荔枝兰
+
+    **云南**
+
+    * [X] 保山 云裳
+
+    **拼配**
+
+=== "Beer List"
+    * 树屋
+
+
+### Media
+
+===! "Podcast List"
+    * [X] 捕蛇者说
+    * [X] 枫言枫语
+    * [X] Teahour
+    * [X] weak self
+    * [X] 疯投圈
+    * [X] FLOWCoffee
+
+### Book
+
+=== "Book List"
+    **2020 done**
+
+    - [x] 香港第一课                   2020-02-02
+    - [x] *编程珠玑-续                  2020-03-02
+    - [x] *Effective Java 中文版第二版  2020-03-12
+    - [x] *数据密集型应用系统设计        2020-03-15
+    - [x] 奈飞文化手册                 2020-03-20
+    - [x] 只是为了好玩                 2020-04-10
+    - [x] 原子习惯                     2020-04-16
+    - [X] 子弹笔记                     2020-06-18
+    - [X] 大教堂与集市                 2020-08-02
+    - [X] 黑客与画家 2020-10-31
+    - [X] 手工咖啡 2020-11-31
+
+    **2021**
+                    
+    - [X] *SRE: Google 运维解密         
+    - [X] Pro-Git
+    - [X] 软件设计的哲学
+    - [X] 混乱的猴子
+    - [X] 解密 Insgram
+    - [ ] 你有你的划，世界另有计划
+
+    **TODO**
+
+    - [ ] SICP Python 实现
+    - [ ] *数据库系统内幕
+    - [ ] 永久档案     
+    - [ ] Cpython internal
+    - [ ] 了不起的我
+    - [ ] 纸知识
+    - [ ] 复杂生命的起源
+    - [ ] *BPF 之巅
+    - [ ] *咖啡冲煮科学
+    - [ ] *咖啡豆科学
+    - [ ] 自由软件，自由社会
+    - [ ] Software Engineering at Google
+    - [ ] The Effective Engineer
+    - [ ] 气候经济与人类未来
+    - [ ] 世界大笨蛋反叛手册
+ 
+=== "Just List"
+
+    ```diff
+    + 巴黎烧了吗
+    + Erlang 程序设计
+    + 英语在用--剑桥初级英语语法（英文版）
+    + 流式系统
+    + 递归与函数式的奥妙
+    + 计算机程序设计艺术
+    + 九号梦
+    + 翻译研究
+    + 陶哲轩教你学数学
+    + 共同的底线
+    + 日本色气
+    + RUST 权威指南
+    + 把自己作为方法
+    + 重做
+    + 每周工作4小时
+    + Visual Studio Code 权威指南
+    + UNIX 传奇历史与回忆
+    + 这才是我想要的工作
+    + 若为自由故
+    + 那些古怪又让人忧心的问题
+    ```
+
+=== "English"
+
+    ```diff
+    + Software Engineering at Google
+    + Chaos Engineering
+    + The New Hacker's Dictionary
+    + Remote
+    + IF THEN
+    + Fonts & Encodings
+    + What IF
+    ```
+
+### Newsletter
+
+> Substack is a place for independent writing. Subscribe directly to writers you trust.
+
+[This my substack](https://hackettyu.substack.com)
+
+### RSS
+
+> Power by: https://pypi.org/project/mkdocs-rss-plugin/
+
+This is [created](https://hackettyu.com/feed_rss_created.xml)
+
+This is [updated](https://hackettyu.com/feed_rss_updated.xml)
+
+
+> update on: Tue Aug 3 03:09:17 UTC 2021 
+
+
+
+>profile counter: ![profile counter](https://komarev.com/ghpvc/?username=hackettyu&color=grey)
