@@ -110,5 +110,5 @@ Language: ABAP\Python\JavasScript
 [^10]: <https://hackettyu.com/docs/books/ISBN-9787559632265/>
 [^11]: <https://hackettyu.com/docs/books/ISBN-9787201104560/>
 
-> update on: Wed Dec 1 06:25:43 UTC 2021 
+> update on: Thu Dec 2 06:29:37 UTC 2021 
 
