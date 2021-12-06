@@ -82,8 +82,13 @@ Language: ABAP\Python\JavasScript
 - [X] 另一个，同一个
 - [X] 阿莱夫
 - [X] 关键路径
-- [ ] 现代艺术150年
-- [ ] 美丽新世界
+- [X] 美丽新世界
+- [X] 解读博尔赫斯
+- [X] 人生的智慧
+- [X] 重来3:跳出疯狂的忙碌
+- [X] 理想思考的艺术：如何好好讲道理
+- [X] 伟大的电影
+
 
 
 
@@ -110,5 +115,5 @@ Language: ABAP\Python\JavasScript
 [^10]: <https://hackettyu.com/docs/books/ISBN-9787559632265/>
 [^11]: <https://hackettyu.com/docs/books/ISBN-9787201104560/>
 
-> update on: Sun Dec 5 06:25:04 UTC 2021 
+> update on: Mon Dec 6 06:25:49 UTC 2021 
 
