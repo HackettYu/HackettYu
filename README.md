@@ -67,7 +67,6 @@ Language: ABAP\Python\JavasScript
 **2021**
                 
 - [X] *SRE: Google 运维解密[^3]     
-- [X] Pro-Git
 - [X] 软件设计的哲学
 - [X] 混乱的猴子
 - [X] 解密 Insgram
@@ -88,9 +87,12 @@ Language: ABAP\Python\JavasScript
 - [X] 重来3:跳出疯狂的忙碌
 - [X] 理想思考的艺术：如何好好讲道理
 - [X] 伟大的电影
-
-
-
+- [X] 贪婪的多巴胺
+- [X] 天真的和感伤的小说家
+- [ ] 反与正、婚礼集、夏天集
+- [ ] 奥斯维辛：一部历史
+- [ ] 现代艺术150年：一个未完成的故事
+- [ ] 加缪笔记：1935-1959
 
 ### Masonry
 
@@ -116,5 +118,5 @@ Language: ABAP\Python\JavasScript
 [^11]: <https://hackettyu.com/books/ISBN-9787201104560/>
 
 
-> update on: Sun Dec 26 06:25:44 UTC 2021 
+> update on: Mon Dec 27 06:26:51 UTC 2021 
 
