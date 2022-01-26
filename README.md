@@ -89,10 +89,13 @@ Language: ABAP\Python\JavasScript
 - [X] 伟大的电影
 - [X] 贪婪的多巴胺
 - [X] 天真的和感伤的小说家
-- [ ] 反与正、婚礼集、夏天集
-- [ ] 奥斯维辛：一部历史
+- [X] 反与正、婚礼集、夏天集
+- [X] 东京咖啡时间
+- [X] 奥斯维辛：一部历史
 - [ ] 现代艺术150年：一个未完成的故事
 - [ ] 加缪笔记：1935-1959
+- [X] 不可能的艺术：巅峰表现的入门指南
+- [X] 链接：商业、科学与生活的新思维
 
 ### Masonry
 
@@ -118,5 +121,5 @@ Language: ABAP\Python\JavasScript
 [^11]: <https://hackettyu.com/books/ISBN-9787201104560/>
 
 
-> update on: Tue Jan 25 06:24:18 UTC 2022 
+> update on: Wed Jan 26 06:24:52 UTC 2022 
 
